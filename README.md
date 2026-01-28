@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, game code, anime, music
 - 🌱 I’m trying to learn C#, Javascript, Python and maybe other languages along the way 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am pansexual and super cool 😎
+- ⚡ Fun fact: I am a weeb and super cool 😎
 
 <!---
 y2k6mj/y2k6mj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
